@@ -2,7 +2,7 @@ import pandas as pd
 import requests
 
 
-df = pd.read_csv('C:/Users/James Ross/Documents/WO 8.12.24 MailPOShared.csv')
+df = pd.read_csv('C:/Users/Documents/MailPOShared.csv')
 
 
 API_KEY = ''
